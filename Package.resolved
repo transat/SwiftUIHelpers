@@ -1,15 +1,6 @@
 {
   "pins" : [
     {
-      "identity" : "chartview",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/AppPear/ChartView",
-      "state" : {
-        "revision" : "9115a992c91fa19cbb4f2241084240d38654a1fc",
-        "version" : "1.5.5"
-      }
-    },
-    {
       "identity" : "dynamiccolor",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/yannickl/DynamicColor.git",
@@ -61,15 +52,6 @@
       "state" : {
         "revision" : "aa1f29152671cbcc21ea4a2a1f259b5d3401bc5d",
         "version" : "1.6.1"
-      }
-    },
-    {
-      "identity" : "sherlockforms",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/inamiy/SherlockForms",
-      "state" : {
-        "revision" : "7e2271fe58a57d6e82323897308d5b7188d8bd1c",
-        "version" : "0.3.0"
       }
     },
     {
