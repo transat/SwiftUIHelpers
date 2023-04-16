@@ -1,3 +1,3 @@
 # SwiftUIHelpers
 
-A description of this package.
+A collection of useful packages for SwiftUI app development.
