@@ -33,7 +33,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "SwiftUIHelpers",
-            dependencies: ["CustomDump", "DynamicColor", "EnvironmentOverrides", "Files", "Settings", "Setting", "SherlockForms", "WhatsNewKit", "SwiftUICharts", "SwiftUIX", "SwipeActions", "IdentifiedCollections", "Gen"]),
+            dependencies: ["swift-custom-dump", "DynamicColor", "EnvironmentOverrides", "Files", "Settings", "Setting", "SherlockForms", "WhatsNewKit", "SwiftUICharts", "SwiftUIX", "SwipeActions", "swift-identified-collections", "swift-gen"]),
     ]
 )
 
